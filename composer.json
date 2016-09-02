@@ -39,7 +39,6 @@
 		"bin/resque"
 	],
 	"conflict": {
-		"chrisboulton/php-resque": "*",
-		"kamisama/php-resque-ex": "*"
+		"chrisboulton/php-resque": "*"
 	}
 }
